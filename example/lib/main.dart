@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tawkto/flutter_tawk.dart';
+import 'package:tawkto/tawkto.dart';
 
 void main() => runApp(const MyApp());
 

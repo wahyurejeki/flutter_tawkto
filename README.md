@@ -16,12 +16,12 @@
 
 ## Install
 
-To use this package, add `flutter_tawk` as dependency in your pubspec.yaml file.
+To use this package, add `tawkto` as dependency in your pubspec.yaml file.
 
 ## Import
 
 ```dart
-import 'package:flutter_tawk/flutter_tawk.dart';
+import 'package:tawkto/tawkto.dart';
 ```
 
 ## How To Use
